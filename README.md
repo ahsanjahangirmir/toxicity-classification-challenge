@@ -2,7 +2,7 @@
 
 In this repo, we train and compare the performance of three different models identifying and classifying six types of toxic comments posted online, borrowed from the famous Kaggle dataset from 2018 hosted by Jigsaw/Conversation AI.
 
-# Motivation:
+# Motivation
 
 In an era where communication happens across digital platforms at an unprecedented
 scale, ensuring a safe and respectful online environment is a pressing concern. The
@@ -12,7 +12,7 @@ challenge of dealing with harmful and toxic content. Content moderation plays a 
 role in maintaining the quality and safety of these platforms, and Machine Learning can
 help automate this responsibility.
 
-# Overview:
+# Overview
 
 The goal of this project is to build a model that can help in detecting and flagging
 content that is (potentially) harmful. This means defining every step of the pipeline:
